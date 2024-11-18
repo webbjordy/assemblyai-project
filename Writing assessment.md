@@ -6,11 +6,7 @@ Thanks for writing in. I’m sorry to see that you’re running into a `NoneType
 
 The issue is likely that the URL you’re using isn’t a direct link to an audio file (like a `.mp3` or `.wav`). AssemblyAI needs a direct audio file link, but it looks like the URL you shared points to a webpage instead, so it won’t work for transcription.
 
-You can get a direct link to the audio file from listennotes from the `More` button on the right side, and then by clicking `Download audio`
-
-![Screenshot 2024-11-18 at 11.40.19 AM.png](Writing%20assessment%201427e96158fc800e9014edf14950eb07/Screenshot_2024-11-18_at_11.40.19_AM.png)
-
-This will give you the following link, which you can use instead of the one currently in your code:
+You can get a direct link to the audio file from listennotes from the `More` button on the right side, and then by clicking `Download audio`. This will give you the following link, which you can use instead of the one currently in your code:
 
 [https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-3-27/0473da78-47d1-a6a8-7d64-4e939fb23c7e.m4a](https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-3-27/0473da78-47d1-a6a8-7d64-4e939fb23c7e.m4a)
 
