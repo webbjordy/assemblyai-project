@@ -4,13 +4,13 @@
 - Install SDK `pip install assemblyai`
 
 # Expected Output
-After running the script, you should see results like this printed in the terminal:
+After running the script, you should see results like this printed in the terminal ex:
 
 `Speaker A spoke for 60.45% of the time.`
 
 `Speaker B spoke for 39.55% of the time.`
 
-For sentiment analysis the output will look like below in the terminal:
+For sentiment analysis the output will look like below in the terminal ex:
 
 `The overall sentiment for Speaker A was positive.`
 
@@ -19,7 +19,7 @@ For sentiment analysis the output will look like below in the terminal:
 A file named utterances.txt file will be generated and contain contain formatted speaker-labeled text like:
 
 
-`Speaker A: "Thank you for calling. Who am I speaking to today?"`
+`Speaker A: "Hello what is your name?"`
 
 `Speaker B: "Hi, my name is Jordy."`
 
